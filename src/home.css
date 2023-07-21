@@ -1,0 +1,16 @@
+.Home{
+    display: flex;
+    flex-direction: column;
+}
+.click{
+    margin: 10px;
+}
+.DropDown{
+    margin: 10px;
+}
+.text{
+    margin: 10px;
+}
+.img{
+    margin: 2px;
+}
